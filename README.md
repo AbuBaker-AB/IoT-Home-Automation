@@ -216,7 +216,7 @@ Docs/Screenshots/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://[github.com/your-username/your-repository-name](https://github.com/AbuBaker-AB/IoT-Home-Automation).git
 ```
 
 ## 2. Firebase Setup
@@ -244,7 +244,7 @@ Update the following values inside the ESP32 firmware:
 Open:
 
 ```text
-Firmware/SmartHomeAutomation_ESP32S3/SmartHomeAutomation_ESP32S3.ino
+Firmware/SmartHomeAutomation_ESP32S3.ino
 ```
 
 Compile and upload the code using Arduino IDE.
@@ -267,8 +267,7 @@ in Android Studio and run the application on an Android device.
 Home-Automation-System/
 │
 ├── Firmware/
-│   └── SmartHomeAutomation_ESP32S3/
-│       └── SmartHomeAutomation_ESP32S3.ino
+│   └── SmartHomeAutomation_ESP32S3.ino
 │
 ├── Mobile App/
 │
@@ -284,23 +283,6 @@ Home-Automation-System/
 ├── README.md
 └── LICENSE
 ```
-
----
-
-# Future Improvements
-
-* Device Scheduling
-* Energy Consumption Monitoring
-* Push Notifications
-* Voice Assistant Integration
-* User Authentication & Roles
-* Device Usage Analytics
-* Additional Smart Home Devices
-* OTA Firmware Updates
-* Multi-Room Management
-* Dark Mode for Mobile Application
-
----
 
 # Authors
 
