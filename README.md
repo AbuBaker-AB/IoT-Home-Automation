@@ -317,3 +317,6 @@ IoT-Based Smart Home Automation System
 ### Technologies
 
 ESP32-S3 • Firebase • Android Studio • Kotlin • Arduino IDE • IoT
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
