@@ -183,7 +183,7 @@ The project uses Firebase Realtime Database for storing device states and sensor
 Firebase Screenshot:
 
 
-Docs/Screenshots/Firebase_Database.png
+![Firebase Database](Docs/Screenshots/Firebase_Database.png)
 ```
 
 ---
@@ -206,8 +206,7 @@ Application Screenshots:
 ```text
 Docs/Screenshots/
 ├── Dashboard.png
-├── Device_Controls.png
-└── Quick_Actions.png
+└── Device_Controls.png
 ```
 
 ---
