@@ -122,9 +122,9 @@ ESP32-S3
 Architecture Diagram:
 
 ![Architecture Diagram](Docs/Architecture-Design/Architecture_Diagram.png)
-```
 
----
+
+
 
 # Circuit Design
 
@@ -132,9 +132,9 @@ The ESP32-S3 acts as the central controller and interfaces with sensors, actuato
 
 Circuit Diagram:
 
-```text
-Docs/Circuit Design/circuit_design_diagram.png
-```
+
+![Circuit Diagram](Docs/Circuit-Design/circuit_design_diagram.png)
+
 
 ---
 
@@ -182,7 +182,7 @@ The project uses Firebase Realtime Database for storing device states and sensor
 
 Firebase Screenshot:
 
-```text
+
 Docs/Screenshots/Firebase_Database.png
 ```
 
