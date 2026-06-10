@@ -116,7 +116,7 @@ ESP32-S3
      ├── Fan 2
      ├── Fan 3
      └── Light
-```
+
 
 ```markdown
 Architecture Diagram:
