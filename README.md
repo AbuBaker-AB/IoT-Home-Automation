@@ -184,7 +184,7 @@ Firebase Screenshot:
 
 
 ![Firebase Database](Docs/Screenshots/Firebase_Database.png)
-```
+
 
 ---
 
