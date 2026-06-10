@@ -118,10 +118,10 @@ ESP32-S3
      └── Light
 ```
 
+```markdown
 Architecture Diagram:
 
-```text
-![Architecture Diagram](Docs/Architecture-Design/Architecture_Diagram.png)
+![Architecture Diagram](Docs/Architecture_Diagram.png)
 ```
 
 ---
