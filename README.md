@@ -216,7 +216,7 @@ Docs/Screenshots/
 ## 1. Clone Repository
 
 ```bash
-git clone https://[github.com/your-username/your-repository-name](https://github.com/AbuBaker-AB/IoT-Home-Automation).git
+git clone https://github.com/AbuBaker-AB/IoT-Home-Automation
 ```
 
 ## 2. Firebase Setup
