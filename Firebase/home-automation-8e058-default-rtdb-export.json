@@ -1,0 +1,26 @@
+{
+  "devices": {
+    "fan1": {
+      "status": "off",
+      "timestamp": 1764582623467
+    },
+    "fan2": {
+      "status": "off",
+      "timestamp": 1764582623478
+    },
+    "fan3": {
+      "status": "on",
+      "timestamp": 1781107479876
+    },
+    "light1": {
+      "status": "off",
+      "timestamp": 1764582623471
+    }
+  },
+  "sensors": {
+    "humidity": 84.1,
+    "motion": true,
+    "temperature": 27.2,
+    "timestamp": 1761287759650
+  }
+}
