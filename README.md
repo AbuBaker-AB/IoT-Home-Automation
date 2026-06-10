@@ -276,8 +276,8 @@ Home-Automation-System/
 │   └── database_structure.json
 │
 ├── Docs/
-│   ├── Architecture_Diagram.png
-│   ├── circuit_design_diagram.png
+│   ├── Architecture-Diagram/
+│   ├── Circuit-Design/
 │   ├── Components/
 │   └── Screenshots/
 │
