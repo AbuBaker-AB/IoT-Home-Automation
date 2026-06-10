@@ -109,7 +109,6 @@ Firebase Realtime Database
 ESP32-S3
 ├── DHT22 Sensor
 ├── PIR Motion Sensor
-├── OLED Display
 └── Relay Module
      ├── Fan 1
      ├── Fan 2
