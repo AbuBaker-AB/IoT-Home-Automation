@@ -121,7 +121,7 @@ ESP32-S3
 ```markdown
 Architecture Diagram:
 ```
-![Architecture Diagram](Docs/Architecture_Diagram.png)
+![Architecture Diagram](Docs/Architecture-Design/Architecture_Diagram.png)
 ```
 
 ---
