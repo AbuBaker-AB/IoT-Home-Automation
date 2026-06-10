@@ -203,11 +203,7 @@ The Android application provides a user-friendly interface for monitoring sensor
 
 Application Screenshots:
 
-```text
-Docs/Screenshots/
-├── Dashboard.png
-└── Device_Controls.png
-```
+![Dashboard](Docs/Screenshots/Dashboard.jpg)  ![Device Controls](Docs/Screenshots/Device_Controls.jpg)
 
 ---
 
