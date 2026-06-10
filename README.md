@@ -59,7 +59,6 @@ The system currently supports:
 | ESP32-S3 Development Board          | 1        |
 | DHT22 Temperature & Humidity Sensor | 1        |
 | PIR Motion Sensor                   | 1        |
-| OLED Display (SSD1306)              | 1        |
 | 4-Channel Relay Module              | 1        |
 | 5V DC Fan                           | 3        |
 | LED Light                           | 1        |
