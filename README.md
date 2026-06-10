@@ -121,7 +121,7 @@ ESP32-S3
 Architecture Diagram:
 
 ```text
-Docs/Architecture_Diagram.png
+Docs/Architecture Design/Architecture_Diagram.png
 ```
 
 ---
