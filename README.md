@@ -133,7 +133,7 @@ The ESP32-S3 acts as the central controller and interfaces with sensors, actuato
 Circuit Diagram:
 
 ```text
-Docs/circuit_design_diagram.png
+Docs/Circuit Design/circuit_design_diagram.png
 ```
 
 ---
