@@ -118,13 +118,13 @@ ESP32-S3
      └── Light
 ```
 
+
 Architecture Diagram:
 
-```text
-![Architecture Diagram](Docs/Architecture%20Design/Architecture_Diagram.png)
-```
+![Architecture Diagram](Docs/Architecture-Design/Architecture_Diagram.png)
 
----
+
+
 
 # Circuit Design
 
@@ -132,9 +132,9 @@ The ESP32-S3 acts as the central controller and interfaces with sensors, actuato
 
 Circuit Diagram:
 
-```text
-Docs/Circuit Design/circuit_design_diagram.png
-```
+
+![Circuit Diagram](Docs/Circuit-Design/circuit_design_diagram.png)
+
 
 ---
 
@@ -182,9 +182,9 @@ The project uses Firebase Realtime Database for storing device states and sensor
 
 Firebase Screenshot:
 
-```text
-Docs/Screenshots/Firebase_Database.png
-```
+
+![Firebase Database](Docs/Screenshots/Firebase_Database.png)
+
 
 ---
 
@@ -206,8 +206,7 @@ Application Screenshots:
 ```text
 Docs/Screenshots/
 ├── Dashboard.png
-├── Device_Controls.png
-└── Quick_Actions.png
+└── Device_Controls.png
 ```
 
 ---
@@ -277,8 +276,8 @@ Home-Automation-System/
 │   └── database_structure.json
 │
 ├── Docs/
-│   ├── Architecture_Diagram.png
-│   ├── circuit_design_diagram.png
+│   ├── Architecture-Diagram/
+│   ├── Circuit-Design/
 │   ├── Components/
 │   └── Screenshots/
 │
@@ -318,3 +317,7 @@ IoT-Based Smart Home Automation System
 ### Technologies
 
 ESP32-S3 • Firebase • Android Studio • Kotlin • Arduino IDE • IoT
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
