@@ -6,7 +6,7 @@ An IoT-based Smart Home Automation System developed using **ESP32-S3**, **Fireba
 
 # Project Overview
 
-This project implements a smart home automation solution that allows users to control electrical devices and monitor environmental conditions from anywhere using a mobile application.
+This project implements a smart home automation solution that allows users to control electrical devices and monitor environmental conditions remotely via a mobile application.
 
 The system uses an **ESP32-S3 microcontroller** as the central controller, which communicates with **Firebase Realtime Database** over Wi-Fi. Sensor data is continuously uploaded to Firebase, while device control commands from the mobile application are retrieved and executed by the ESP32.
 
@@ -83,7 +83,6 @@ The system currently supports:
 ## Cloud Platform
 
 * Firebase Realtime Database
-* Firebase Authentication
 
 ## Libraries Used
 
@@ -126,7 +125,7 @@ Architecture Diagram:
 
 # Circuit Design
 
-The ESP32-S3 acts as the central controller and interfaces with sensors, actuators, and the Firebase cloud.
+The ESP32-S3 serves as the central controller, interfacing with sensors, actuators, and the Firebase cloud.
 
 Circuit Diagram:
 
@@ -219,7 +218,6 @@ git clone https://github.com/AbuBaker-AB/IoT-Home-Automation
 
 Create a Firebase project and enable:
 
-* Firebase Authentication
 * Realtime Database
 
 Update the following values inside the ESP32 firmware:
