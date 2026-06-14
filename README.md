@@ -177,7 +177,7 @@ The project uses Firebase Realtime Database for storing device states and sensor
 }
 ```
 
-Firebase Screenshot:
+### Firebase Screenshot:
 
 
 ![Firebase Database](Docs/Screenshots/Firebase_Database.png)
