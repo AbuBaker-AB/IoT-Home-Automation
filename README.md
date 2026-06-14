@@ -116,7 +116,7 @@ ESP32-S3
 ```
 
 
-Architecture Diagram:
+### Architecture Diagram:
 
 ![Architecture Diagram](Docs/Architecture-Design/Architecture_Diagram.png)
 
