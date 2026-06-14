@@ -56,14 +56,14 @@ The system currently supports:
 
 | Component                           | Quantity |
 | ----------------------------------- | -------- |
-| ESP32-S3 Development Board          | 1        |
-| DHT22 Temperature & Humidity Sensor | 1        |
-| PIR Motion Sensor                   | 1        |
-| 4-Channel Relay Module              | 1        |
-| 5V DC Fan                           | 3        |
-| LED Light                           | 1        |
-| Li-ion 18650 Battery                | 1        |
-| Mini Breadboard                     | 1        |
+| ESP32-S3 Development Board          |    1     |
+| DHT22 Temperature & Humidity Sensor |    1     |
+| PIR Motion Sensor                   |    1     |
+| 4-Channel Relay Module              |    1     |
+| 5V DC Fan                           |    3     |
+| LED Light                           |    1     |
+| Li-ion 18650 Battery                |    1     |
+| Mini Breadboard                     |    1     |
 | Jumper Wires                        | Multiple |
 
 ---
