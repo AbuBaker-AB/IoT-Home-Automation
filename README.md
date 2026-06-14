@@ -127,7 +127,7 @@ ESP32-S3
 
 The ESP32-S3 serves as the central controller, interfacing with sensors, actuators, and the Firebase cloud.
 
-Circuit Diagram:
+### Circuit Diagram:
 
 
 ![Circuit Diagram](Docs/Circuit-Design/circuit_design_diagram.png)
